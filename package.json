@@ -1,0 +1,21 @@
+{
+  "name": "com.sutheim.nativelibrarymanager",
+  "version": "0.1.0",
+  "displayName": "Native Library Manager",
+  "description": "",
+  "unity": "2020.0",
+  "keywords": [
+    "ffi",
+    "library",
+    "native",
+    "manager"
+  ],
+  "author": {
+    "name": "Sondre Utheim",
+    "email": "contact@sondreutheim.com",
+    "url": "https://sondreutheim.com"
+  },
+  "dependencies": {
+  },
+  "type": "library"
+}
